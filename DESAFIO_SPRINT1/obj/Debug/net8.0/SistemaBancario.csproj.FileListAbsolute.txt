@@ -1,0 +1,14 @@
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\bin\Debug\net8.0\SistemaBancario.exe
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\bin\Debug\net8.0\SistemaBancario.deps.json
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\bin\Debug\net8.0\SistemaBancario.runtimeconfig.json
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\bin\Debug\net8.0\SistemaBancario.dll
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\bin\Debug\net8.0\SistemaBancario.pdb
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.dll
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\refint\SistemaBancario.dll
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.pdb
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\SistemaBancario.genruntimeconfig.cache
+C:\Users\026.067852\source\repos\DESAFIO_SPRINT1\DESAFIO_SPRINT1\obj\Debug\net8.0\ref\SistemaBancario.dll
